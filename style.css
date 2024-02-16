@@ -38,7 +38,7 @@ p {
     color: hsl(0, 0%, 100%);
 }
 .im {
-background-image: url("images/image-header-desktop.jpg" );
+background-image: url("./image-header-desktop.jpg" );
   /* background-color: ;   */
       width: 50%; 
      /* filter: hue-rotate(rgb(40, 18, 60));  */
